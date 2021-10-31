@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "SturrollTwo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, that was one song, now go"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop Beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "SturrollTwo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just speak English"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "SturrollTwo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "¿Es este un idioma que puedes entender?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "SturrollTwo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Que tal agora?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "SturrollTwo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sai parlare una lingua?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep Bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "SturrollTwo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GAH!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "SturrollTwo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "You really want another song?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "SturrollTwo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I said I’m busy, and we made a deal!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep Bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "SturrollTwo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.13,
+			"portrait": "SturrollTwo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have been warned"
+		}
+	]
+}

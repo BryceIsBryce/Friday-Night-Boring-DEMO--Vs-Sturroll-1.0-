@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				184,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AngrySturroll Sing Note LEFT0000"
+		},
+		{
+			"offsets": [
+				93,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AngrySturroll Sing Note DOWN0000"
+		},
+		{
+			"offsets": [
+				146,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AngrySturroll Sing Note UP0000"
+		},
+		{
+			"offsets": [
+				151,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AngrySturroll Sing Note RIGHT0000"
+		},
+		{
+			"offsets": [
+				150,
+				42
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AngrySturroll idle dance"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angrysturroll_assets",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "AngrySturroll",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-210,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

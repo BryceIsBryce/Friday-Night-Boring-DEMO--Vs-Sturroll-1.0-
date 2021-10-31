@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "maniac",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I told you...I tried warning you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "maniac",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You don't know who I am, don't you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you a cringy guy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "maniac",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "This is the 5th time someone said that this month"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "maniac",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHY CAN'T YOU PEOPLE UNDERSTAND"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "maniac",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I KILLED SO MANY PEOPLE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cringe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "maniac",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AND NOW, BECAUSE OF YOU TWO, EVERY PERSON YOU HAVE FOUGHT IS NOW IN AN ENDLESS CYCLE OF MADNESS!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "maniac",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHITTY, CYRIX, MATT, INCLUDING ME, AND SO MANY OTHER PEOPLE ARE IN MADNESS BECAUSE OF YOU!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Skebeep Boop Bep"
+		},
+		{
+			"speed": 0.3,
+			"portrait": "maniac",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.15,
+			"portrait": "maniac",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hahahaha"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "maniac",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HaHaHaHaHaHa"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "maniac",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA \rHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA \rHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA \rHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA \rHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA \rHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA \rHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA \rHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "maniac",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "EVEN IN NEAR-DEATH SITUATIONS, ALL YOU CAN THINK OF IS RAPPING! THAT IS SO FUNNY!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I don't get it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep Bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "maniac",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.11,
+			"portrait": "maniac",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Get VERY Comfortable"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "maniac",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Because we're gonna have one HELL of a time"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bep Boop Bap"
+		}
+	]
+}

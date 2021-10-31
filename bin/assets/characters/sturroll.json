@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-36,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sturroll Sing Note LEFT0000"
+		},
+		{
+			"offsets": [
+				93,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sturroll Sing Note DOWN0000"
+		},
+		{
+			"offsets": [
+				86,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sturroll Sing Note UP0000"
+		},
+		{
+			"offsets": [
+				17,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sturroll Sing Note RIGHT0000"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sturroll idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sturroll_assets",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "Sturroll",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-210,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

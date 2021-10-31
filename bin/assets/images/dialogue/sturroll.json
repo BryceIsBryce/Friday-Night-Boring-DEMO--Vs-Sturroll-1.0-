@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		50,
+		70
+	],
+	"scale": 1.3,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				3,
+				-9
+			],
+			"idle_offsets": [
+				4,
+				-11
+			],
+			"loop_name": "Sturroll LOOP",
+			"idle_name": "Sturroll0"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "Sturroll EXCITED LOOP",
+			"idle_name": "Sturroll EXCITED0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Sturroll PISSED LOOP",
+			"idle_name": "Sturroll PISSED0"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "Sturroll SHOCK LOOP",
+			"idle_name": "Sturroll SHOCK0"
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "",
+			"anim": "Looped",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "",
+			"anim": "Sturroll LOOP",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "",
+			"anim": "Loop",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Sturroll_Dialogue"
+}

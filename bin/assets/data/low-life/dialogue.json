@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.5,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep Bop"
+		},
+		{
+			"speed": 0.09,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, it's you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That famous rapper..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you want?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep Bop Bap"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep Bop Bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don’t understand what you are saying..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skeboop Bap?"
+		},
+		{
+			"speed": 0.2,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He's saying he wants a rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, I’m busy right now so you should go fight someone else"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I still don’t understand a word you are saying"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep Bop Bap Beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "Sturroll",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just one song"
+		}
+	]
+}

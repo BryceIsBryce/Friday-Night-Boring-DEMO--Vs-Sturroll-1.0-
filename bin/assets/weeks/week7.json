@@ -1,0 +1,48 @@
+{
+	"storyName": "the inceptive",
+	"hideFreeplay": false,
+	"weekBackground": "hell",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Low Life",
+			"Sturroll",
+			[
+				220,
+				220,
+				220
+			]
+		],
+		[
+			"Exhortation",
+			"Sturroll",
+			[
+				255,
+				60,
+				0
+			]
+		],
+		[
+			"Hell-Chart",
+			"AngrySturroll",
+			[
+				140,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Sturroll",
+		"bf",
+		"gf"
+	],
+	"weekName": "Inceptive"
+}

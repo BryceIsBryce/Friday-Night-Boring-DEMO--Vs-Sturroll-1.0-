@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Sturroll",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"idle_anim": "M Sturroll Idle",
+	"confirm_anim": "M Sturroll Idle"
+}
